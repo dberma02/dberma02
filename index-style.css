@@ -1,0 +1,39 @@
+/*  style sheet for index.html */
+
+body {
+    background-color: white;
+    font-family: Helvetica;
+    font-weight: 300;
+    color: black    
+}
+a {
+    background-color: blue;
+}
+
+h1 {
+    font-weight: 400; 
+    margin-left: 60%;
+    vertical-align: -500%;
+
+}
+
+img {
+    width: 50%;
+
+}
+
+#resume_link {
+    font-weight: 700;
+    background-color: blue;   
+    margin-left: 5%;
+    color: gray; 
+    padding: 2%;
+}
+#bio_link {
+    margin-left: 5%;
+    font-weight: 700;
+    color: gray; 
+    padding: 2%;
+
+}
+
